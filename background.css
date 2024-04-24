@@ -51,7 +51,7 @@ opacity:0;
 
 body {
   /* 10px四方の方眼紙 */
-  background: linear-gradient(0deg, transparent 9px, #CCCCCC 10px), linear-gradient(90deg,  transparent 9px, #CCCCCC 10px);
+  background: linear-gradient(0deg, transparent 9px, #333 10px), linear-gradient(90deg,  transparent 9px, #333 10px);
   background-size: 10px 10px
 }
 

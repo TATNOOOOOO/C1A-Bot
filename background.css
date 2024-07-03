@@ -1,6 +1,5 @@
-body {
-background-image: linear-gradient(0deg, transparent 19px, #CCCCCC 20px), linear-gradient(90deg,  transparent 19px, #CCCCCC 20px);
-background-size: 20px 20px;
+body{
+  background-color: #83ccd2;
 }
 
 .fadeIn{
@@ -40,21 +39,24 @@ opacity:0;
 }
 
 .box-design1 {
-  background-color: #CCCCCC;
+  background-color: #F3F3F3;
   margin: 20px auto;
   padding: 20px;
-  border: 2px solid #4c9ac0;
-  border-radius: 20px;
+  border-radius: 10px;
+  color: #949495;
 }
 
 h1{
+  color: #DCDDDD;
 font-family: 'Arial' ,'Century Gothic';
 }
 
 h3{
+  color: #DCDDDD;
 font-family: 'Arial' ,'Century Gothic';
 }
 
 p{
+  color: #DCDDDD;
   font-family: 'メイリオ' ,'Yu Gothic' ,'Arial';
 }

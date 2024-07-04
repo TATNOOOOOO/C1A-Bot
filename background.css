@@ -48,15 +48,15 @@ opacity:0;
 
 h1{
   color: #DCDDDD;
-font-family: 'Arial' ,'Century Gothic' ,'monospace' ,'sans-serif';
+font-family: 'Arial' ,'Century Gothic' ,'monospace' ,sans-serif;
 }
 
 h3{
   color: #DCDDDD;
-font-family: 'Arial' ,'Century Gothic' ,'monospace' ,'sans-serif';
+font-family: 'Arial' ,'Century Gothic' ,'monospace' ,sans-serif;
 }
 
 p{
   color: #DCDDDD;
-  font-family: 'メイリオ' ,'Yu Gothic' ,'Arial' ,'monospace' ,'sans-serif';
+  font-family: 'メイリオ' ,'Yu Gothic' ,'Arial' ,'monospace' ,sans-serif;
 }
